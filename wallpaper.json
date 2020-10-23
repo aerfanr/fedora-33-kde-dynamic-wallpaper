@@ -1,0 +1,42 @@
+[
+	{
+		"CrossFade": false,
+		"Time": "07:00",
+		"FileName": "f33-01-dawn.png"
+	},
+	{
+		"CrossFade": true,
+		"Time": "09:00",
+		"FileName": "f33-01-dawn.png"
+	},
+	{
+		"CrossFade": false,
+		"Time": "11:00",
+		"FileName": "f33-02-day.png"
+	},
+	{
+		"CrossFade": true,
+		"Time": "15:00",
+		"FileName": "f33-02-day.png"
+	},
+	{
+		"CrossFade": false,
+		"Time": "19:00",
+		"FileName": "f33-03-dusk.png"
+	},
+	{
+		"CrossFade": true,
+		"Time": "21:00",
+		"FileName": "f33-03-dusk.png"
+	},
+	{
+		"CrossFade": false,
+		"Time": "23:00",
+		"FileName": "f33-04-night.png"
+	},
+	{
+		"CrossFade": true,
+		"Time": "05:00",
+		"FileName": "f33-04-night.png"
+	}
+]
