@@ -1,5 +1,6 @@
 # fedora-33-kde-dynamic-wallpaper
 This is the KDE version of Fedora 33 animated wallpaper.
+
 Artwork is designed by Fedora design team.
 
 ![preview](preview1.jpg)
